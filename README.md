@@ -164,18 +164,21 @@ DFS Tree
     * Connected Tree 를 DFS로 탐색하는 과정에서 각 정점에 다양한 기준으로 번호를 부여한 후 Tree 모양으로 전개
     * 그래프의 다양한 특징을 쉽게 판별 가능
 ```
+<br>
 
 > Sudoku
 
-1. 
+1. `DFS기법으로 경우의 수를 탐색`하여 스도쿠 판을 채우는 함수로, 채울 방법이 존재한다면 해당 스도쿠 판을 2차원 배열 형태로 반환한다.
 
 2. 
+<br>
 
 > N Queen
 
 1. 
 
 2. 
+<br>
 
 > 해밀턴 경로(Hamilton Path)
 
@@ -228,6 +231,7 @@ DFS Tree
     ```
 
     </details>
+<br>
 
 
 > 해밀턴 회로(Hamilton Cycle)
@@ -286,7 +290,7 @@ DFS Tree
     }
     ```
     </details>
- 
+<br>
 
 
 > 오일러 회로(Eulerian Circuit)
@@ -317,7 +321,8 @@ DFS Tree
     }
     ```
     </details>
- 
+<br>
+
 ***
 
 ### 그래프의 연결성
@@ -482,10 +487,12 @@ DFS Tree
 
 ***
 
-<details><summary>참고자료</summary>
+<details><summary>출처</summary>
 
 https://edu.goorm.io/learn/lecture/554/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EA%B8%B0%EB%B2%95-%EC%9E%85%EB%AC%B8
+
 https://hsp1116.tistory.com/42
+
 https://gmlwjd9405.github.io/2018/08/16/algorithm-connected-component.html
 
 </details>
